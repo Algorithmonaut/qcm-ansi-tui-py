@@ -16,3 +16,9 @@ Blue
 ```
 
 Here the good answer to the question will be `Green`.
+
+# Keymaps
+
+- `Enter`: validate selected answer.
+- `Escape`: exit program.
+- `Up`/`Down` `arrows`: select up/down.
