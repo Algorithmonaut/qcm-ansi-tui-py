@@ -1,0 +1,69 @@
+What is the time complexity of the QuickSort algorithm in the average case?
+2
+O(n)
+O(n log n)
+O(n^2)
+O(log n)
+
+Which of the following is a characteristic of a B-tree?
+3
+It is a binary tree.
+It is used in undirected graphs.
+It is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time.
+It is a type of linked list.
+
+What is the main advantage of the MapReduce programming model?
+2
+It supports distributed transactions.
+It allows for distributed processing of large data sets across clusters of computers using simple programming models.
+It provides real-time data streaming.
+It ensures the security of data in a distributed system.
+
+In the context of databases, what does ACID stand for?
+4
+Accuracy, Consistency, Isolation, Durability
+Atomicity, Consistency, Isolation, Dependency
+Atomicity, Consistency, Information, Durability
+Atomicity, Consistency, Isolation, Durability
+
+Which of the following algorithms is used for finding the shortest paths in graphs?
+1
+Dijkstra's algorithm
+Prim's algorithm
+Kruskal's algorithm
+Floyd-Warshall algorithm
+
+What is the main purpose of a hash function in computer science?
+1
+To map data of arbitrary size to data of fixed size
+To sort data in ascending order
+To compress data to save storage space
+To encrypt data for secure transmission
+
+Which machine learning algorithm is typically used for classification problems?
+3
+K-means
+Linear regression
+Support Vector Machines (SVM)
+Apriori algorithm
+
+What does the term 'overfitting' mean in machine learning?
+2
+The model performs well on the training data but poorly on new, unseen data.
+The model is too simple to capture the underlying patterns in the data.
+The model has too few parameters relative to the number of training examples.
+The model is too complex and captures noise instead of the underlying data pattern.
+
+In computer networking, what does the term 'latency' refer to?
+2
+The amount of data that can be transmitted in a fixed amount of time
+The time it takes for a data packet to travel from the source to the destination
+The difference between the highest and lowest data transmission rates
+The number of data packets lost during transmission
+
+Which concept is essential for ensuring fault tolerance in distributed systems?
+3
+Load balancing
+Data encryption
+Replication
+Resource allocation
